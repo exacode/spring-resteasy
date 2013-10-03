@@ -7,7 +7,7 @@ import org.springframework.validation.beanvalidation.LocalValidatorFactoryBean;
 import org.springframework.validation.beanvalidation.MethodValidationPostProcessor;
 
 @Configuration
-@ComponentScan(basePackages = "net.exacode")
+@ComponentScan(basePackages = "net.hexacode")
 public class WebApplicationConfiguration {
 	@Bean
 	public LocalValidatorFactoryBean validator() {
