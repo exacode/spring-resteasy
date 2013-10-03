@@ -1,9 +1,9 @@
-package net.exacode.bootstrap.web.rest;
+package net.hexacode.bootstrap.web.rest;
 
 import java.util.List;
 
-import net.exacode.bootstrap.rest.api.UserDto;
-import net.exacode.bootstrap.rest.api.UserService;
+import net.hexacode.bootstrap.rest.api.UserDto;
+import net.hexacode.bootstrap.rest.api.UserService;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

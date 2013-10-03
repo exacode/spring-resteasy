@@ -1,4 +1,4 @@
-package net.exacode.bootstrap.web.exception;
+package net.hexacode.bootstrap.web.exception;
 
 import java.util.Collection;
 
